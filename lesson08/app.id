@@ -1,0 +1,18 @@
+f6d4e8a7d8b134fdf9bb8540c948ffda
+cfa71999825ae02c0dc490585e96b88c
+
+
+By city ID
+        Examples of API calls:
+http://api.openweathermap.org/data/2.5/weather?id=2172797&appid=cfa71999825ae02c0dc490585e96b88c
+
+https://samples.openweathermap.org/data/2.5/weather?id=2172797&appid=b6907d289e10d714a6e88b30761fae22
+
+api.openweathermap.org/data/2.5/weather?id=2172797&appid=f6d4e8a7d8b134fdf9bb8540c948ffda
+
+
+    Для получения температуры по Цельсию:
+http://api.openweathermap.org/data/2.5/weather?id=520068&units=metric&appid=f6d4e8a7d8b134fdf9bb8540c948ffda
+
+    Для запроса по нескольким городам сразу:
+http://api.openweathermap.org/data/2.5/group?id=524901,703448,2643743&units=metric&appid=f6d4e8a7d8b134fdf9bb8540c948ffda
